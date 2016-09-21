@@ -65,7 +65,7 @@
   },
   "optionalDependencies": {
     "sprity-css": "^1.0.2",
-    "sprity-lwip": "git://github.com/nealfennimore/sprity-lwip"
+    "sprity-lwip": "git://github.com/CK-12/sprity-lwip"
   },
   "devDependencies": {
     "chai": "^2.2.0",
